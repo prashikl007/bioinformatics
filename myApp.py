@@ -4,7 +4,7 @@ Created on Thu Apr 22 23:21:00 2021
 
 @author: PRASHIK
 """
-#import sys
+
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
 from PyQt5.QtWidgets import (QApplication, QWidget, QFileDialog, QPushButton, QLabel, QGridLayout, QVBoxLayout)
